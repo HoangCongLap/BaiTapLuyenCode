@@ -16,7 +16,7 @@
 #include<math.h>
 
 /*
- * 
+ * LapHoang
  */
 //BAi 10))
 
@@ -32,6 +32,9 @@
 //    }
 //}
 //
+
+
+
 //int main() {
 //    int x = 1, y = 2, s, l = 1, KQ;
 //    while ( l < 10 ) {
